@@ -25,3 +25,11 @@ Now it is time to install the MPLAB X IDE. Go to download section and choose the
 <p align="center">
     <img src="./figs/mplabx.png" width="600" height="360" title="Home Service Robot">
 </p> 
+
+Obs.: for installation dependencies on 64-bit Linux, follow this tutorial: 
+
+https://microchipdeveloper.com/install:mplabx-lin64
+
+```bash
+$ sudo apt-get install libc6:i386 libx11-6:i386 libxext6:i386 libstdc++6:i386 libexpat1:i386
+```
