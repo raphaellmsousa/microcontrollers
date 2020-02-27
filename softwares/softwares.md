@@ -11,7 +11,7 @@ https://github.com/lcgamboa/picsimlab/releases
 Obs.: choose the version 0.7 for ubuntu
 
 <p align="center">
-    <img src="./figs/pic_board.png" width="600" height="360" title="Home Service Robot">
+    <img src="./figs/pic_board.png" width="600" height="360" title="pickitlab">
 </p> 
 
 ##### Install the compiler
@@ -25,7 +25,7 @@ https://microchipdeveloper.com/xc8:installation
 Now it is time to install the MPLAB X IDE. Go to download section and choose the version for your OS. You can find the MPLAB X here https://www.microchip.com/mplab/mplab-x-ide.
 
 <p align="center">
-    <img src="./figs/mplabx.png" width="600" height="360" title="Home Service Robot">
+    <img src="./figs/mplabx.png" width="600" height="360" title="MPLAB">
 </p> 
 
 Follow the instructions to install the IDE:
@@ -47,6 +47,10 @@ Use the bash to install the dependencies as follow:
 ```bash
 $ sudo apt-get install libc6:i386 libx11-6:i386 libxext6:i386 libstdc++6:i386 libexpat1:i386
 ```
+
+<p align="center">
+    <img src="./figs/mplabx_ide.png" width="600" height="360" title="MPLAB">
+</p> 
 
 You can find more details about this setup here:
 
