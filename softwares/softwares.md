@@ -28,6 +28,16 @@ Now it is time to install the MPLAB X IDE. Go to download section and choose the
     <img src="./figs/mplabx.png" width="600" height="360" title="Home Service Robot">
 </p> 
 
+Follow the instructions to install the IDE:
+
+https://microchipdeveloper.com/mplabx:installation
+
+```bash
+$ tar -xvf MPLABX-vX.XX-linux-installer.tar
+$ chmod u+x MPLABX-vX.XX-linux-installer.sh
+$ sudo ./MPLABX-vX.XX-linux-installer.sh
+```
+
 Obs.: for installation dependencies on 64-bit Linux, follow this tutorial: 
 
 https://microchipdeveloper.com/install:mplabx-lin64
