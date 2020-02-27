@@ -9,3 +9,7 @@
 https://github.com/lcgamboa/picsimlab/releases
 
 Obs.: choose the version 0.7 for ubuntu
+
+<p align="center">
+    <img src="./figs/pic_board.png" width="600" height="360" title="Home Service Robot">
+</p> 
