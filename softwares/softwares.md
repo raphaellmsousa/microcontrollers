@@ -13,3 +13,11 @@ Obs.: choose the version 0.7 for ubuntu
 <p align="center">
     <img src="./figs/pic_board.png" width="600" height="360" title="Home Service Robot">
 </p> 
+
+##### Now, we have to install the compiler! 
+
+Here, we are going to use the MPLAB XC8 Compiler. Follow the instructions to download:
+
+https://microchipdeveloper.com/xc8:installation
+
+
