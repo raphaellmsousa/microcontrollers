@@ -14,11 +14,13 @@ Obs.: choose the version 0.7 for ubuntu
     <img src="./figs/pic_board.png" width="600" height="360" title="Home Service Robot">
 </p> 
 
-##### Now, we have to install the compiler! 
+##### Install the compiler
 
 Here, we are going to use the MPLAB XC8 Compiler. Follow the instructions to download:
 
 https://microchipdeveloper.com/xc8:installation
+
+##### Install the IDE
 
 Now it is time to install the MPLAB X IDE. Go to download section and choose the version for your OS. You can find the MPLAB X here https://www.microchip.com/mplab/mplab-x-ide.
 
