@@ -47,3 +47,7 @@ Use the bash to install the dependencies as follow:
 ```bash
 $ sudo apt-get install libc6:i386 libx11-6:i386 libxext6:i386 libstdc++6:i386 libexpat1:i386
 ```
+
+You can find more details about this setup here:
+
+https://www.youtube.com/watch?v=aUlM6eUv7tA
