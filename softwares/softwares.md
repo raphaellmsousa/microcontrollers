@@ -1,10 +1,10 @@
 # Course of Microcontrollers
-### Professor: Raphaell Maciel de Sousa
-### Institution: IFPB Cajazeiras
-### Course: Industrial Automation
-### Year: 2020
+#### Professor: Raphaell Maciel de Sousa
+#### Institution: IFPB Cajazeiras
+#### Course: Industrial Automation
+#### Year: 2020
 
-#### First, install the Pickitlab from:
+##### First, install the Pickitlab from:
 
 https://github.com/lcgamboa/picsimlab/releases
 
