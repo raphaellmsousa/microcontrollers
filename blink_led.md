@@ -28,3 +28,9 @@
 <p align="center">
     <img src="./figs/press_next.png" width="600" height="360" title="New Project">
 </p>
+
+5. Press Next:
+
+<p align="center">
+    <img src="./figs/press_next_again.png" width="600" height="360" title="New Project">
+</p>
