@@ -41,7 +41,7 @@
     <img src="./figs/path.png" width="600" height="360" title="New Project">
 </p>
 
-7. Type the project's name:
+7. Type the project's name and press Finish:
 
 <p align="center">
     <img src="./figs/blinking_led.png" width="600" height="360" title="New Project">
