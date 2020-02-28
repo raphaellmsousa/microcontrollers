@@ -47,3 +47,8 @@
     <img src="./figs/blinking_led.png" width="600" height="360" title="New Project">
 </p>
 
+8. Click with right button on Source Files and choose New -> main.c
+
+<p align="center">
+    <img src="./figs/source_files.png" width="600" height="360" title="New Project">
+</p>
