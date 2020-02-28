@@ -84,7 +84,11 @@ void main(void) {
     <img src="./figs/xc_compiler.png" width="600" height="360" title="New Project">
 </p>
 
-11. 
+11. Go to menu Production -> Set Configuration Bits. Now, set the bits as follow:
+
+<p align="center">
+    <img src="./figs/config_bits.png" width="600" height="360" title="New Project">
+</p>
 
 ```bash
 /*
