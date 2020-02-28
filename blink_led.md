@@ -58,3 +58,22 @@
 <p align="center">
     <img src="./figs/first_program.png" width="600" height="360" title="New Project">
 </p>
+
+This is the generated code from MPLAB X:
+
+```bash
+/*
+ * File:   newmain.c
+ * Author: raphaell
+ *
+ * Created on 28 de Fevereiro de 2020, 09:48
+ */
+
+
+#include <xc.h>
+
+void main(void) {
+    return;
+}
+
+```
