@@ -34,3 +34,10 @@
 <p align="center">
     <img src="./figs/press_next_again.png" width="600" height="360" title="New Project">
 </p>
+
+6. Choose XC8 compiler and write down the path and press Next:
+
+<p align="center">
+    <img src="./figs/path.png" width="600" height="360" title="New Project">
+</p>
+
