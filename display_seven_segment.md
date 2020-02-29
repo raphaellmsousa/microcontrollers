@@ -169,4 +169,4 @@ void main(void) {
     <img src="./figs/seven_disp.png" width="600" height="360" title="seven">
 </p> 
 
-
+Now, try change the display in above code.
