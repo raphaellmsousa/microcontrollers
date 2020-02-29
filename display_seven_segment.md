@@ -37,4 +37,8 @@ void main(void) {
 }
 ```
 
+After putting the swicht in the display position, you must see the g segment activated as follow:
 
+<p align="center">
+    <img src="./figs/seven_segments.png" width="600" height="360" title="seven">
+</p>  
