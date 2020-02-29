@@ -130,7 +130,7 @@ Click on Generate Source Code. You should see the folow code:
 
 void main(void) {
     
-    TRISB0 = 0;
+    TRISB0 = 0; //PIN B0 from PORTB is an output
     
     RB0 = 1;
     __delay_ms(1000);
