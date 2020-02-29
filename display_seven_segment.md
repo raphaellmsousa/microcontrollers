@@ -42,3 +42,11 @@ After putting the switch in the display position, you must see the g segment act
 <p align="center">
     <img src="./figs/seven_segments.png" width="600" height="360" title="seven">
 </p>  
+
+3. Now, activate the PIN RB4:
+
+<p align="center">
+    <img src="./figs/seven_segments_2.png" width="600" height="360" title="seven">
+</p>  
+
+
