@@ -37,3 +37,7 @@ void main(void) {
     return;
 }
 ```
+
+<p align="center">
+    <img src="./figs/zero.png" width="600" height="360" title="zero">
+</p> 
