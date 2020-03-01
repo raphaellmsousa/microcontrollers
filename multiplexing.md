@@ -151,3 +151,19 @@ void main(void) {
 <p align="center">
     <img src="./figs/display23.png" width="600" height="360" title="zero">
 </p> 
+
+Solution:
+
+```sh
+void main(void) {
+    
+    TRISB = 0;
+    
+    PORTB = 0b01111101; //right display
+    __delay_ms(40);
+    PORTB = 0b11001101; //left display
+    __delay_ms(40);
+    
+    return;
+}
+```
