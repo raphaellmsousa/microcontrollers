@@ -19,3 +19,7 @@ https://github.com/raphaellmsousa/microcontrollers/blob/master/display_seven_seg
 4. In this class, we are going to learn how to code a counter by using a seven-segments display.
 
 https://github.com/raphaellmsousa/microcontrollers/blob/master/display_seven_segment.md
+
+5. Lets use multiplexation to write in both displays at the same time!
+
+https://github.com/raphaellmsousa/microcontrollers/blob/master/multiplexing.md
