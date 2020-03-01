@@ -130,3 +130,18 @@ void main(void) {
     <img src="./figs/multiplex.png" width="600" height="360" title="zero">
 </p> 
 
+Solution:
+
+```sh
+void main(void) {
+    
+    TRISB = 0;
+    
+    PORTB = 0b111111110; //right display
+    __delay_ms(40);
+    PORTB = 0b111101110; //left display
+    __delay_ms(40);
+    
+    return;
+}
+```
