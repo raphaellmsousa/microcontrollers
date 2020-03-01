@@ -4,7 +4,7 @@
 
 This is the repository for the course of microcontrollers. 
 
-1. First, follow this steps for a software setup:
+1. First, follow these steps for a software setup:
 
 https://github.com/raphaellmsousa/microcontrollers/blob/master/softwares/softwares.md
 
