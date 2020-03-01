@@ -8,7 +8,7 @@ This is the repository for the course of microcontrollers.
 
 https://github.com/raphaellmsousa/microcontrollers/blob/master/softwares/softwares.md
 
-2. Now, lets activate some LEDs:
+2. Now, let's activate some LEDs:
 
 https://github.com/raphaellmsousa/microcontrollers/blob/master/blink_led.md
 
