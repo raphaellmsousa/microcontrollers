@@ -121,3 +121,12 @@ void main(void) {
     return;
 }
 ```
+
+5. Change the delay for 100 ms. What is the result we should expect?
+
+6. Decrease even more the delay. You should see both left and right displays presenting the number zero.
+
+<p align="center">
+    <img src="./figs/multiplex.png" width="600" height="360" title="zero">
+</p> 
+
