@@ -12,7 +12,7 @@ https://github.com/raphaellmsousa/microcontrollers/blob/master/softwares/softwar
 
 https://github.com/raphaellmsousa/microcontrollers/blob/master/blink_led.md
 
-3. Lets work with seven-segments displays:
+3. Let's work with seven-segments displays:
 
 https://github.com/raphaellmsousa/microcontrollers/blob/master/display_seven_segment.md
 
@@ -20,6 +20,6 @@ https://github.com/raphaellmsousa/microcontrollers/blob/master/display_seven_seg
 
 https://github.com/raphaellmsousa/microcontrollers/blob/master/display_seven_segment.md
 
-5. Lets use multiplexation to write in both displays at the same time!
+5. Let's use multiplexation to write in both displays at the same time!
 
 https://github.com/raphaellmsousa/microcontrollers/blob/master/multiplexing.md
