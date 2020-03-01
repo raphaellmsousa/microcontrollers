@@ -145,3 +145,9 @@ void main(void) {
     return;
 }
 ```
+
+7. Write the number 23 by using multiplexation.
+
+<p align="center">
+    <img src="./figs/display23.png" width="600" height="360" title="zero">
+</p> 
