@@ -16,6 +16,6 @@ https://github.com/raphaellmsousa/microcontrollers/blob/master/blink_led.md
 
 https://github.com/raphaellmsousa/microcontrollers/blob/master/display_seven_segment.md
 
-4. In this class, we are going to learn how to code a counter by uting a seven-segments display.
+4. In this class, we are going to learn how to code a counter by using a seven-segments display.
 
 https://github.com/raphaellmsousa/microcontrollers/blob/master/display_seven_segment.md
