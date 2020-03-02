@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="./figs/cpinguin.jpg" width="600" height="360" title="Open IDE">
+</p> 
+
+
 # Introduction To C Coding
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
