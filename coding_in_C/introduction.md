@@ -247,6 +247,12 @@ float cost = 23.5;
 
 **[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/printInt.c)**
 
+**Question:** What happen if you write something like that:
+
+```sh
+int value = 12.8;
+```
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
