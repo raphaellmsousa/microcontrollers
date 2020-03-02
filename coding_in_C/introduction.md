@@ -168,7 +168,32 @@ What result did you get?
 
 * A variable is a label or reference to a memory location;
 
-* It is easier acess the memory by using variables. 
+* It is easier acess the memory by using variables;
+
+* Helps to read and write values in the memory by using names given by programmer;
+
+* A variable can't have spaces ou special characters. Also, can't begin with numbers;
+
+Ex.:
+
+int temperature;
+
+int temperature = 50;
+
+```sh
+#include <stdio.h>
+
+#define PI 3.14
+
+int main()
+{
+    int temperature = 50;
+
+    return 0;
+}
+```
+
+What is the difference between the directive **#define** and a attribution of variable?
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
