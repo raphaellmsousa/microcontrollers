@@ -26,3 +26,19 @@ It is possible to create programs for many OS as follow:
 </p> 
 
 https://www.slideshare.net/SyedZaidIrshad/assembly-fundamentals
+
+###################################################################################
+
+### Structure of a C program
+
+```sh
+int main(){
+	return 0;
+}
+
+or
+
+void main(){
+
+}
+```
