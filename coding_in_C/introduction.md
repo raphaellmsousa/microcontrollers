@@ -243,6 +243,10 @@ float cost = 23.5;
 
 **Problem**: write a code to print a int number.
 
+**[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**
+
+**[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/printInt.c)**
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
