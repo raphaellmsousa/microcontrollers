@@ -4,7 +4,7 @@
 * **Course**: Industrial Automation
 * **Year**: 2020
 
-* **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
+**[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 1. Install the Pickitlab from:
 
@@ -56,4 +56,4 @@ $ sudo apt-get install libc6:i386 libx11-6:i386 libxext6:i386 libstdc++6:i386 li
 
 You can find more details about this setup **[*Here*](https://www.youtube.com/watch?v=aUlM6eUv7tA)**.
 
-* **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
+**[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
