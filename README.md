@@ -23,7 +23,7 @@ Table of Contents
 
 1. First, follow these steps for a software setup:
 
-https://github.com/raphaellmsousa/microcontrollers/blob/master/softwares/softwares.md
+* **[*Setup*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/softwares/softwares.md)**
 
 2. Now, let's activate some LEDs:
 
@@ -35,8 +35,10 @@ https://github.com/raphaellmsousa/microcontrollers/blob/master/softwares/softwar
 
 4. In this class, we are going to learn how to code a counter by using a seven-segments display.
 
-https://github.com/raphaellmsousa/microcontrollers/blob/master/display_seven_segment.md
+* **[*Counter*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/counter.md)**
 
 5. Let's use multiplexation to write in both displays at the same time!
 
-https://github.com/raphaellmsousa/microcontrollers/blob/master/multiplexing.md
+* **[*Multiplexation*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/multiplexing.md)**
+
+
