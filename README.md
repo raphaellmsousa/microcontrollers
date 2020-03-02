@@ -6,7 +6,7 @@
 
 ## First Module (Coding in C)
 
-https://www.tutorialspoint.com/compile_c_online.php
+* **[*Compile and Execute C Online*](https://www.tutorialspoint.com/compile_c_online.php)**  
 
 ## Basic Module (Start coding a microcontroller)
 
