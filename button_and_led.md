@@ -4,6 +4,10 @@
 
 1. Write a program to turn on a LED after push a button. The LED should turn off if you aren't pushing the button.
 
+<p align="center">
+    <img src="./figs/led_and_button.png" width="600" height="360" title="zero">
+</p>
+
 ```sh
 /*
  * File:   newmain.c
