@@ -2,6 +2,8 @@
 * Professor: Raphaell Maciel de Sousa.
 * Courses: Industrial Automation and Control Engineering.
 
+*******
+
 1. First, follow these steps for a software setup:
 
 https://github.com/raphaellmsousa/microcontrollers/blob/master/softwares/softwares.md
