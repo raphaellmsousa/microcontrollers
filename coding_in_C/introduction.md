@@ -109,7 +109,7 @@ In this case, the special function **printf** just can be used with the inclusio
 
 **[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**  
 
-**[*Solution*](https://www.tutorialspoint.com/compile_c_online.php)**  
+**[*Problem solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/printEx.c)**  
 
 *******
 
