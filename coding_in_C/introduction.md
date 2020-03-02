@@ -9,6 +9,8 @@ To coding in any language, it is necessary to understand its structure and synta
 5. Conditional structures;
 6. Repetition structures.
 
+###################################################################################
+
 ### Coding in C
 
 It is possible to create programs for many OS as follow:
