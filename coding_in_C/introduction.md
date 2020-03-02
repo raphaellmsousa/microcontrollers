@@ -137,6 +137,31 @@ int main()
 
 **[*Problem solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/bases.c)**  
 
+Also, it possible to mix different bases as follow:
+
+```sh
+#include <stdio.h>
+
+int main()
+{
+    int numberDecimal = 23;
+    int numberBinary = 0b00010111;
+    int numberHex = 0x17;
+
+    int sum = 0b00010111 + 40;
+
+    printf("Decimal is: %d \n", numberDecimal);
+    printf("Binary is: %d \n", numberBinary);
+    printf("Hexadecimal is: %d \n\n", numberHex);
+
+    printf("Sum = %d + %d = %d", 0b00010111, 40, sum);
+
+    return 0;
+}
+```
+
+**[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**  
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
