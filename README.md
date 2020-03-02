@@ -41,4 +41,12 @@ Table of Contents
 
 * **[*Multiplexation*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/multiplexing.md)**
 
+## References
+
+https://www.udemy.com/course/microcontrolador-pic-com-linguagem-c/
+
+https://www.udemy.com/course/microcontrolador-pic-para-quem-nao-conhece-eletronica/
+
+Pereira, F. Microcontroladores PIC Programação em C. 7. ed. São Paulo: Editora Erika, 2010.
+
 
