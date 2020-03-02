@@ -195,6 +195,8 @@ int main()
 
 **Question:** What is the difference between the directive **#define** and a attribution of variable?
 
+**[*Answer*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/atributtion.md)**  
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
