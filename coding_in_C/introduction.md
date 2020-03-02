@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./figs/cpenguin.jpg" width="600" height="360" title="Open IDE">
+    <img src="./figs/cpenguin.png" width="600" height="360" title="Open IDE">
 </p> 
 
 
