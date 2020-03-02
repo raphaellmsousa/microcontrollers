@@ -19,6 +19,10 @@ It is possible to create programs for many OS as follow:
 
 ###################################################################################
 
+### C vs Assembly
 
+<p align="center">
+    <img src="./figs/assembly-fundamentals.jpg" width="600" height="360" title="Open IDE">
+</p> 
 
 
