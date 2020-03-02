@@ -74,6 +74,22 @@ To including libraries, it is necessary to use some **Directives**
 
 *******
 
+The directive **#include** is used for pointing to a file in the PC.
+
+```sh
+#include <stdio.h>
+```
+**stdio.h** (standard IO) is a standard library used for input and output data.
+
+The directive **#define** is used to assign a value to a variable. 
+
+Ex.:
+
+```sh
+#define SPEED 50
+```
+
+*******
 
 
 
