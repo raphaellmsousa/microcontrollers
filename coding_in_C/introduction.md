@@ -221,6 +221,10 @@ int main()
 
 ## Data Types
 
+<p align="center">
+    <img src="./figs/tabelaTiposDados1.png" width="600" height="360" title="Open IDE">
+</p> 
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
