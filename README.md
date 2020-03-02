@@ -1,6 +1,6 @@
 # Federal Institute of Paraiba
-Professor: Raphaell Maciel de Sousa.
-Courses: Industrial Automation and Control Engineering.
+* Professor: Raphaell Maciel de Sousa.
+* Courses: Industrial Automation and Control Engineering.
 
 1. First, follow these steps for a software setup:
 
