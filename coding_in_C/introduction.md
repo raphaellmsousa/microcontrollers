@@ -113,6 +113,26 @@ In this case, the special function **printf** just can be used with the inclusio
 
 *******
 
+## Numeric Bases
+
+```sh
+#include <stdio.h>
+
+int main()
+{
+    int numberDecimal = 23;
+    int numberBinary = 0b00010111;
+    int numberHex = 0x17;
+
+    return 0;
+}
+```
+
+* **Problem:** print the variables.
+
+**[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**  
+
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
