@@ -2,6 +2,7 @@
     <img src="./figs/cpenguin.png" width="600" height="360" title="Open IDE">
 </p> 
 
+Figure from: https://www.edx.org/learn/computer-programming
 
 # Introduction To C Coding
 
