@@ -6,7 +6,7 @@
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
-1. Install the Pickitlab from:
+1. **Install the Pickitlab from**:
 
 * **[*Pickitlab*](https://github.com/lcgamboa/picsimlab/releases)** 
 
@@ -16,13 +16,13 @@ Obs.: choose the version 0.7 for ubuntu
     <img src="./figs/pic_board.png" width="600" height="360" title="pickitlab">
 </p> 
 
-2. Install the compiler
+2. **Install the compiler**
 
 Here, we are going to use the MPLAB XC8 Compiler. Follow the instructions to download:
 
 * **[*Compiler download*](https://microchipdeveloper.com/xc8:installation)** 
 
-3. Install the IDE
+3. **Install the IDE**
 
 Now it is time to install the MPLAB X IDE. Go to download section and choose the version for your OS. You can find the MPLAB X **[*Here*](https://www.microchip.com/mplab/mplab-x-ide)** 
 
