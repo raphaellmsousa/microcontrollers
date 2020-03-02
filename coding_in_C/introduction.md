@@ -104,7 +104,11 @@ int main()
 
 In this case, the special function **printf** just can be used with the inclusion of the library **stdio.h**.
 
-* **[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**  
+* **Problem:** write a code that uses the directive **#define SPEED 50** and print the sum with an int number.
+
+**[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**  
+
+**[*Solution*](https://www.tutorialspoint.com/compile_c_online.php)**  
 
 *******
 
