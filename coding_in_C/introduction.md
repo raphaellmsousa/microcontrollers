@@ -193,7 +193,7 @@ int main()
 }
 ```
 
-What is the difference between the directive **#define** and a attribution of variable?
+**Question:** What is the difference between the directive **#define** and a attribution of variable?
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
