@@ -25,4 +25,4 @@ It is possible to create programs for many OS as follow:
     <img src="./figs/assembly-fundamentals.jpg" width="600" height="360" title="Open IDE">
 </p> 
 
-
+https://www.slideshare.net/SyedZaidIrshad/assembly-fundamentals
