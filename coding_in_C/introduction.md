@@ -45,6 +45,8 @@ void main(){
 
 ###################################################################################
 
+The follow code it is a function that do not use so much resource from the language. To explore more functions, it is necessary including some libraries.
+
 ```sh
 int main(){
 	int value = 10;
