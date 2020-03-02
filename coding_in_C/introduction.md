@@ -1,7 +1,5 @@
 # Introduction To C Coding
 
-*******
-
 Table of Contents 
 
  1. [Coding in C](#coding)
