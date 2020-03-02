@@ -149,3 +149,5 @@ void main(void) {
     <img src="./figs/pic_lab_blink.png" width="600" height="360" title="New Project">
 </p>
 
+* **[*Back to the home page*](https://github.com/raphaellmsousa/microcontrollers)**  
+
