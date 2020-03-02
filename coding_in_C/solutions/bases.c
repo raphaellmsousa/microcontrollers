@@ -8,7 +8,7 @@ int main()
 
     printf("Decimal is: %d \n", numberDecimal);
     printf("Binary is: %d \n", numberBinary);
-    printf("Hexadecimal is: %d \n", numberDecimal);
+    printf("Hexadecimal is: %d \n", numberHex);
 
     return 0;
 }
