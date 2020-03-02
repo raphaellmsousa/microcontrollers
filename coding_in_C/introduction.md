@@ -160,6 +160,8 @@ int main()
 }
 ```
 
+What result did you get?
+
 **[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**  
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
