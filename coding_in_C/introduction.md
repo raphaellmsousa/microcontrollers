@@ -203,6 +203,8 @@ int main()
 
 **[*Answer*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/sum.c)**
 
+# Data Types
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
