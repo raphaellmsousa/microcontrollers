@@ -225,6 +225,16 @@ int main()
     <img src="./figs/tabelaTiposDados1.png" width="600" height="360" title="Open IDE">
 </p> 
 
+Table from: https://lipinf.com/introducao-a-logica-de-programacao-parte-2/
+
+*******
+
+It is possible to store just positive values in a **int** variable as follow:
+
+```sh
+unsigned int value;
+```
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
