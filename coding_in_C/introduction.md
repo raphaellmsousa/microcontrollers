@@ -235,6 +235,12 @@ It is possible to store just positive values in a **int** variable as follow:
 unsigned int value;
 ```
 
+Fractions or floating-points can be stored in a variable of type **float**.
+
+```sh
+float cost = 23.5;
+```
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
