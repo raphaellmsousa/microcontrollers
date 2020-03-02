@@ -49,4 +49,6 @@ Table of Contents
 
 * https://www.udemy.com/course/microcontrolador-pic-para-quem-nao-conhece-eletronica/
 
+* https://github.com/lcgamboa/picsimlab/tree/master/docs/examples
+
 
