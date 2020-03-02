@@ -201,7 +201,7 @@ int main()
 
 **[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**
 
-**[*Answer*](https://www.tutorialspoint.com/compile_c_online.php)**
+**[*Answer*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/sum.c)**
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
