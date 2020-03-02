@@ -132,6 +132,7 @@ int main()
 
 **[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**  
 
+**[*Problem solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/bases.c)**  
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
