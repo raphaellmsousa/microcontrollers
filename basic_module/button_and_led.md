@@ -2,7 +2,7 @@
 
 #### Professor: Raphaell Maciel de Sousa
 
-* **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
+**[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 1. Write a program to turn on a LED after push a button. The LED should turn off if you aren't pushing the button.
 
@@ -49,5 +49,5 @@ void main(void) {
     return;
 }
 ``` 
-* **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
+**[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
