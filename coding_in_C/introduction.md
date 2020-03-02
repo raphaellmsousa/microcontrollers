@@ -27,7 +27,7 @@ It is possible to create programs for many OS as follow:
 
 https://www.slideshare.net/SyedZaidIrshad/assembly-fundamentals
 
-###################################################################################
+*******
 
 ### Structure of a C program
 
@@ -43,7 +43,7 @@ void main(){
 }
 ```
 
-###################################################################################
+*******
 
 The follow code it is a function that do not use so much resource from the language. To explore more functions, it is necessary including some libraries.
 
@@ -56,7 +56,7 @@ int main(){
 ```
 To including libraries, it is necessary to use some **Directives**
 
-###################################################################################
+*******
 
 
 
