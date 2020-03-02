@@ -241,7 +241,7 @@ Fractions or floating-points can be stored in a **float** variable.
 float cost = 23.5;
 ```
 
-**Problem**: write a code to print a int number.
+**Problem**: write a code to print an int number.
 
 **[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**
 
@@ -256,6 +256,12 @@ int value = 12.8;
 ??
 
 **[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**
+
+**Problem**: write a code to print a float number. Then limit this number with 2 digits for the float part. 
+
+**[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**
+
+**[*Solution*](https://www.tutorialspoint.com/compile_c_online.php)**
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
