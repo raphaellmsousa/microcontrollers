@@ -1,5 +1,7 @@
 *******
-Tabelas de conteúdo 
+
+Table of Contents 
+
  1. [Coding in C](#coding)
  2. [C vs Assembly](#assembly)
  3. [Structure of a C program](#structure)
