@@ -20,11 +20,11 @@ Obs.: choose the version 0.7 for ubuntu
 
 Here, we are going to use the MPLAB XC8 Compiler. Follow the instructions to download:
 
-https://microchipdeveloper.com/xc8:installation
+* **[*Compiler download*](https://microchipdeveloper.com/xc8:installation)** 
 
 3. Install the IDE
 
-Now it is time to install the MPLAB X IDE. Go to download section and choose the version for your OS. You can find the MPLAB X * **[*Here*](https://www.microchip.com/mplab/mplab-x-ide)** 
+Now it is time to install the MPLAB X IDE. Go to download section and choose the version for your OS. You can find the MPLAB X **[*Here*](https://www.microchip.com/mplab/mplab-x-ide)** 
 
 <p align="center">
     <img src="./figs/mplabx.png" width="600" height="360" title="MPLAB">
@@ -54,8 +54,6 @@ $ sudo apt-get install libc6:i386 libx11-6:i386 libxext6:i386 libstdc++6:i386 li
     <img src="./figs/mplabx_ide.png" width="600" height="360" title="MPLAB">
 </p> 
 
-You can find more details about this setup here:
-
-* **[*Installation steps*](https://www.youtube.com/watch?v=aUlM6eUv7tA)** 
+You can find more details about this setup **[*Here*](https://www.youtube.com/watch?v=aUlM6eUv7tA)**.
 
 * **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
