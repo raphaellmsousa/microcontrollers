@@ -15,7 +15,7 @@ Table of Contents
 
 ## First Module (Coding in C)
 
-* **[*Compile and Execute C Online*](https://www.tutorialspoint.com/compile_c_online.php)**  
+* **[*Let's code in C!*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/introduction.md)**  
 
 <div id='basic'/>
 
