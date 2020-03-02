@@ -27,7 +27,7 @@ https://github.com/raphaellmsousa/microcontrollers/blob/master/softwares/softwar
 
 2. Now, let's activate some LEDs:
 
-https://github.com/raphaellmsousa/microcontrollers/blob/master/blink_led.md
+* **[*Blinking LEDs*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/blink_led.md)**
 
 3. Let's work with seven-segments displays:
 
