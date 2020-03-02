@@ -9,7 +9,7 @@ To coding in any language, it is necessary to understand its structure and synta
 5. Conditional structures;
 6. Repetition structures.
 
-###################################################################################
+*******
 
 It is possible to create programs for many OS as follow:
 
@@ -17,7 +17,7 @@ It is possible to create programs for many OS as follow:
 2. Mac OS X;
 3. Linux.
 
-###################################################################################
+*******
 
 ### C vs Assembly
 
