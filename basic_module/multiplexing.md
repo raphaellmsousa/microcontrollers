@@ -2,6 +2,8 @@
 
 #### Professor: Raphaell Maciel de Sousa
 
+* **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
+
 1. Create the project seven_segments (use our first class and follow the steps to create the project).
 
 2. Write the number zero in the right display, as follow:
@@ -168,4 +170,4 @@ void main(void) {
 }
 ```
 
-* **[*Back to the home page*](https://github.com/raphaellmsousa/microcontrollers)**  
+* **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
