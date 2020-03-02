@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./figs/cpenguin.png" width="300" height="180" title="Open IDE">
+    <img src="./figs/cpenguin.png" width="500" height="250" title="Open IDE">
 </p> 
 
 Figure from: https://www.edx.org/learn/computer-programming
