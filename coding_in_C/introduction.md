@@ -213,7 +213,7 @@ int main()
 
 *******
 
-# Data Types
+## Data Types
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
