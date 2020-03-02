@@ -4,6 +4,8 @@
 #### Course: Industrial Automation
 #### Year: 2020
 
+* **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
+
 ##### First, install the Pickitlab from:
 
 https://github.com/lcgamboa/picsimlab/releases
@@ -56,4 +58,4 @@ You can find more details about this setup here:
 
 https://www.youtube.com/watch?v=aUlM6eUv7tA
 
-* **[*Back to the home page*](https://github.com/raphaellmsousa/microcontrollers)**  
+* **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
