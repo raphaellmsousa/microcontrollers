@@ -261,6 +261,19 @@ int value = 12.8;
 
 **[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/printFloat.c)**
 
+**Question:** What is the result fo the follow operation?
+
+```sh
+float result = 1/2;
+
+printf("Result %f", result);
+
+```
+
+Could you explain?
+
+**[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
