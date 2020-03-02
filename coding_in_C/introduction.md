@@ -11,8 +11,6 @@ To coding in any language, it is necessary to understand its structure and synta
 
 ###################################################################################
 
-### Coding in C
-
 It is possible to create programs for many OS as follow:
 
 1. Windows;
@@ -21,6 +19,6 @@ It is possible to create programs for many OS as follow:
 
 ###################################################################################
 
-### Coding in C
+
 
 
