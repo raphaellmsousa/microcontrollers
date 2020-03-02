@@ -102,6 +102,8 @@ int main()
 }
 ```
 
+In this case, the special function **printf** just can be used with the inclusion of the library **stdio.h**.
+
 *******
 
 
