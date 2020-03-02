@@ -8,6 +8,8 @@ Table of Contents
  2. [C vs Assembly](#assembly)
  3. [Structure of a C Program](#structure)
  4. [Numeric Bases](#bases)
+ 5. [Variables](#variables)
+ 6. [Data Types](#data)
 
 *******
 
@@ -164,6 +166,10 @@ What result did you get?
 
 **[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**  
 
+*******
+
+<div id='variables'/>
+
 ## Variables
 
 * A variable is a label or reference to a memory location;
@@ -202,6 +208,10 @@ int main()
 **[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**
 
 **[*Answer*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/sum.c)**
+
+<div id='data'/>
+
+*******
 
 # Data Types
 
