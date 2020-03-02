@@ -164,6 +164,12 @@ What result did you get?
 
 **[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**  
 
+#Variables
+
+* A variable is a label or reference to a memory location;
+
+* It is easier acess the memory by using variables. 
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
