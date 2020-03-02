@@ -89,6 +89,19 @@ Ex.:
 #define SPEED 50
 ```
 
+Another example:
+
+```sh
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello, World!\n");
+
+    return 0;
+}
+```
+
 *******
 
 
