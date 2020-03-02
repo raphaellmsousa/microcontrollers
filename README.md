@@ -43,10 +43,10 @@ Table of Contents
 
 ## References
 
-https://www.udemy.com/course/microcontrolador-pic-com-linguagem-c/
+* Pereira, F. Microcontroladores PIC Programação em C. 7. ed. São Paulo: Editora Erika, 2010.
 
-https://www.udemy.com/course/microcontrolador-pic-para-quem-nao-conhece-eletronica/
+* https://www.udemy.com/course/microcontrolador-pic-com-linguagem-c/
 
-Pereira, F. Microcontroladores PIC Programação em C. 7. ed. São Paulo: Editora Erika, 2010.
+* https://www.udemy.com/course/microcontrolador-pic-para-quem-nao-conhece-eletronica/
 
 
