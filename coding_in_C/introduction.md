@@ -6,7 +6,8 @@ Table of Contents
 
  1. [Coding in C](#coding)
  2. [C vs Assembly](#assembly)
- 3. [Structure of a C program](#structure)
+ 3. [Structure of a C Program](#structure)
+ 4. [Numeric Bases](#bases)
 
 *******
 
@@ -112,6 +113,8 @@ In this case, the special function **printf** just can be used with the inclusio
 **[*Problem solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/printEx.c)**  
 
 *******
+
+<div id='bases'/>
 
 ## Numeric Bases
 
