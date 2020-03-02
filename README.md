@@ -31,7 +31,7 @@ https://github.com/raphaellmsousa/microcontrollers/blob/master/softwares/softwar
 
 3. Let's work with seven-segments displays:
 
-https://github.com/raphaellmsousa/microcontrollers/blob/master/display_seven_segment.md
+* **[*Seven-segments display*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/display_seven_segment.md)**
 
 4. In this class, we are going to learn how to code a counter by using a seven-segments display.
 
