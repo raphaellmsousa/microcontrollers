@@ -152,7 +152,7 @@ int main()
 
     printf("Decimal is: %d \n", numberDecimal);
     printf("Binary is: %d \n", numberBinary);
-    printf("Hexadecimal is: %d \n\n", numberHex);
+    printf("Hexadecié como um rótulomal is: %d \n\n", numberHex);
 
     printf("Sum = %d + %d = %d", 0b00010111, 40, sum);
 
@@ -164,7 +164,7 @@ What result did you get?
 
 **[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**  
 
-#Variables
+## Variables
 
 * A variable is a label or reference to a memory location;
 
