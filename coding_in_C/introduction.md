@@ -274,6 +274,8 @@ Could you explain?
 
 **[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**
 
+**[*Explanation*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/explanation.md)**
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
