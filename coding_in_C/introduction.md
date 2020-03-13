@@ -229,7 +229,7 @@ Table from: https://lipinf.com/introducao-a-logica-de-programacao-parte-2/
 
 *******
 
-It is possible to store just positive values in a **int** variable as follow:
+It is possible to store just positive values in an **int** variable as follow:
 
 ```sh
 unsigned int value;
@@ -275,6 +275,16 @@ Could you explain?
 **[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**
 
 **[*Explanation*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/explanation.md)**
+
+*******
+
+"char" variables are used to store an 8 bits data from ASCII table as follow:
+
+<p align="center">
+    <img src="./figs/ASCII-code-table.png" width="600" height="360" title="Open IDE">
+</p> 
+
+Figure from: https://pijaeducation.com/arduino/lcd-16x2-with-arduino-uno/print-ascii-characters-on-lcd-16x2-using-arduino/
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
