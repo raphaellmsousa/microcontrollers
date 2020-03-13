@@ -278,7 +278,7 @@ Could you explain?
 
 *******
 
-"char" variables are used to store an 8 bits data from ASCII table as follow:
+"char" variables are used to store an 8 bits data from the ASCII table as follow:
 
 <p align="center">
     <img src="./figs/ASCII-code-table.png" width="600" height="360" title="Open IDE">
