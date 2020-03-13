@@ -286,6 +286,20 @@ Could you explain?
 
 Figure from: https://pijaeducation.com/arduino/lcd-16x2-with-arduino-uno/print-ascii-characters-on-lcd-16x2-using-arduino/
 
+The follow code is used to print a "char" variable:
+
+```sh
+#include <stdio.h>
+
+int main()
+{
+    char letter = 'A';
+    printf("The letter is %c", letter);
+
+    return 0;
+}
+```
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
