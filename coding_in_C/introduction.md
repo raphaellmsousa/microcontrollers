@@ -332,6 +332,44 @@ int main()
 
 **Question:** what result did you get?
 
+*******
+
+## Data Types
+
+* A vector can store more than one value!
+
+* A vector can be declarated as follow:
+
+```sh
+int data[5]; //this vector can store 5 elements
+```
+
+* To write a value in a vector we should do:
+
+```sh
+data[0] = 2; //this means a value of 2 assigned to position 0 of a 5 positions vectr
+```
+
+**[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**
+
+```sh
+#include <stdio.h>
+
+int main()
+{
+    int data[5];
+    data[0] = 100;
+    
+    printf("Value of 0 index is %i", data[0]);
+
+    return 0;
+}
+```
+
+**Question:** print the 1 index.
+
+**[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/printFloat.c)**
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
