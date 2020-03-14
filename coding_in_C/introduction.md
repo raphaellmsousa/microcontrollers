@@ -316,6 +316,8 @@ int main()
 }
 ```
 
+Now, change the char variable:
+
 ```sh
 #include <stdio.h>
 
