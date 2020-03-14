@@ -316,6 +316,18 @@ int main()
 }
 ```
 
+```sh
+#include <stdio.h>
+
+int main()
+{
+    char letter = 66;
+    printf("The letter is %c and the integer is: %i", letter, letter);
+
+    return 0;
+}
+```
+
 **Question:** what result did you get?
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
