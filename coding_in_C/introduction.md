@@ -334,7 +334,7 @@ int main()
 
 *******
 
-## Data Types
+## Vectors
 
 * A vector can store more than one value!
 
@@ -367,6 +367,10 @@ int main()
 ```
 
 **Question:** print the 1 index.
+
+**[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/index.c)**
+
+**Question:** assign a value to the position 3 of the vector.
 
 **[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/index.c)**
 
