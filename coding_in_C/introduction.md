@@ -465,7 +465,9 @@ int main()
 
 ## Relational Operators, Logic and Bits
 
-
+<p align="center">
+    <img src="./figs/relational.jpg" width="600" height="360" title="Open IDE">
+</p> 
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
