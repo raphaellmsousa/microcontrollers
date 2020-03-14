@@ -391,7 +391,7 @@ int main()
 
 **Question:** discount 1 from the first grade.
 
-**[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/grade.c)**
+**[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/grade_discount.c)**
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
