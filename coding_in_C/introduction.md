@@ -172,6 +172,8 @@ What result did you get?
 
 **[*Try it yourself!*](https://www.tutorialspoint.com/compile_c_online.php)**  
 
+Obs.: check the difference between %d and %i **[*here!*](https://www.tutorialspoint.com/compile_c_online.php)**:
+
 *******
 
 <div id='variables'/>
