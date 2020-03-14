@@ -469,6 +469,14 @@ int main()
     <img src="./figs/relational.jpg" width="600" height="360" title="Open IDE">
 </p> 
 
+Figure from: https://www.youtube.com/watch?v=3ZFDQcgLD04
+
+<p align="center">
+    <img src="./figs/logic.jpg" width="600" height="360" title="Open IDE">
+</p> 
+
+Figure from:http://resede.fourwindspresbytery.org/logical-operators/
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
