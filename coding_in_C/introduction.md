@@ -302,6 +302,20 @@ int main()
 }
 ```
 
+Try to check the ASCII value as follow:
+
+```sh
+#include <stdio.h>
+
+int main()
+{
+    char letter = 'A';
+    printf("The letter is %c and the integer is: %i", letter, letter);
+
+    return 0;
+}
+```
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
