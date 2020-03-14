@@ -395,6 +395,69 @@ int main()
 
 **[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/grade_discount.c)**
 
+We also can use a counter as follow:
+
+```sh
+#include <stdio.h>
+
+int main()
+{
+    int count = 0;
+    
+    count += 10;
+    
+    printf("Counter is: %i ", count);
+
+    return 0;
+}
+```
+
+It is also possible subtract:
+
+```sh
+#include <stdio.h>
+
+int main()
+{
+    int count = 0;
+    
+    count += 10;
+    
+    printf("Counter is: %i ", count);
+    
+    count -= 3;
+
+    printf("\nCounter is: %i ", count);
+
+    return 0;
+}
+```
+
+The operator "%" can be used to calculate the rest of a dvision:
+
+```sh
+#include <stdio.h>
+
+int main()
+{
+    int count = 0;
+    
+    count += 10;
+    
+    printf("Counter is: %i", count);
+    
+    count -= 3;
+
+    printf("\nCounter is: %i", count);
+    
+    int rest = count % 2;
+    
+    printf("\nRest is: %i", rest);
+
+    return 0;
+}
+```
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
