@@ -374,6 +374,10 @@ int main()
 
 **[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/index_position.c)**
 
+**Question:** create a vector with 5 even numbers and print the element of the position 3.
+
+**[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/index_position.c)**
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
