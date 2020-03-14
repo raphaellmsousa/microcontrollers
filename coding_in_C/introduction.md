@@ -368,7 +368,7 @@ int main()
 
 **Question:** print the 1 index.
 
-**[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/printFloat.c)**
+**[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/index.c)**
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
