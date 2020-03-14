@@ -18,7 +18,7 @@ Table of Contents
  6. [Data Types](#data)
  7. [Math Operators](#math)
 
-Obs.: this content is based on this course **[*here!*](https://www.udemy.com/course/microcontrolador-pic-com-linguagem-c/)**. 
+Obs.: this content is based on this course **[*here!*](https://www.udemy.com/course/microcontrolador-pic-com-linguagem-c/)** 
 
 *******
 
