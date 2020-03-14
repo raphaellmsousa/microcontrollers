@@ -385,7 +385,9 @@ int main()
 
 ## Math Operators
 
-...
+**Question:** write a code that calculate the average of 3 grades.
+
+**[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/index_no_size.c)**
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
