@@ -372,7 +372,7 @@ int main()
 
 **Question:** assign a value to the position 3 of the vector.
 
-**[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/index.c)**
+**[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/index_position.c)**
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
