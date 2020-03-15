@@ -477,6 +477,20 @@ Figure from: https://www.youtube.com/watch?v=3ZFDQcgLD04
 
 Figure from:http://resede.fourwindspresbytery.org/logical-operators/
 
+```sh
+#include <stdio.h>
+
+int main()
+{
+    int a = 1;
+    int b = !a;
+    
+    printf("a = %i and b = %i", a, b);
+
+    return 0;
+}
+```
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
