@@ -516,6 +516,24 @@ int main()
 }
 ```
 
+Ex.:
+
+```sh
+#include <stdio.h>
+
+int main()
+{
+    int a = 0b0010;
+    int b = 0b0101;
+    int c = a & b;
+    int d = a << 1; //0b0100
+    
+    printf("a = %i, b = %i, c = %i and d = %i", a, b, c, d);
+
+    return 0;
+}
+```
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
