@@ -6,8 +6,8 @@
 
 Table of Contents 
 
- 1. [First Module](#first)
- 2. [Basic Module](#basic)
+ 1. [First Module (Coding in C)](#first)
+ 2. [Basic Module (Start coding a microcontroller)](#basic)
 
 *******
 
