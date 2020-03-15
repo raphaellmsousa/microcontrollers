@@ -19,6 +19,7 @@ Table of Contents
  7. [Math Operators](#math)
  8. [Relational Operators, Logic and Bitwise](#relation)
  9. [Flow Control](#flow)
+ 10.[Functions](#func)
 
 Obs.: this content is based on this course **[*here!*](https://www.udemy.com/course/microcontrolador-pic-com-linguagem-c/)** 
 
@@ -615,6 +616,44 @@ int main()
     return 0;
 }
 ```
+
+*******
+
+### Repetition Structure FOR
+
+```sh
+#include <stdio.h>
+
+int main()
+{
+    float temp[] = {
+        27.25, 27.50, 27.75, 28.00, 28.25, 
+        28.50, 28.75, 29.00, 29.25, 29.50, 
+        29.75, 30.00
+    };
+    
+    int i;
+    float accumulator = 0;
+    
+    for (i = 0; i < 12; i++) {
+        accumulator += temp[i];
+    }
+    
+    float average = accumulator / 12;
+    printf("Average = %f", average);
+    
+    return 0;
+}
+```
+
+<div id='func'/>
+
+*******
+
+## Functions
+
+...
+
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
