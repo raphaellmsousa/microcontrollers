@@ -543,8 +543,6 @@ int main()
 
 ### Conditional structure IF ELSE
 
-**Question**: write a code to calculate the average grade. So, if the student took a grade less than 7, he is disapproved, otherwise, approved.
-
 ```sh
 if (satisfied condition)
 {
@@ -556,9 +554,39 @@ else
 }
 ```
 
+**Question**: write a code to calculate the average grade. So, if the student took a grade less than 7, he is disapproved, otherwise, approved.
+
 *******
 
 ### Conditional structure SWITCH CASE
+
+```sh
+#include <stdio.h>
+
+int main()
+{
+    int command = 5;
+    
+    switch (command) {
+        case 1:
+            printf("Move foward.\n");
+            break;
+        case 2:
+            printf("Move backward.\n");
+            break;
+        case 3:
+            printf("Move left.\n");
+            break;
+        case 4:
+            printf("Move right.\n");
+            break;
+        default:
+            printf("No valid command!\n");
+    }
+    printf("End of commands.\n");
+    return 0;
+}
+```
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
