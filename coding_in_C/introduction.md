@@ -652,8 +652,43 @@ int main()
 
 ## Functions
 
-...
+```sh
+#include <stdio.h>
 
+// tipo nameOfFunction(parameters) { actions }
+/*
+void calculateAverage() {
+    float grade1 = 7.0;
+    float grade2 = 8.0;
+    float average = (grade1 + grade2) / 2;
+    printf("Average = %f", average);
+}
+*/
+/*
+void calculateAverage(float n1, float n2) {
+    float average = (n1 + n2) / 2;
+    printf("Average = %f\n", average);
+}
+*/
+
+float calculateAverage(float n1, float n2) {
+    float average = (n1 + n2) / 2;
+    return average;
+}
+
+int main()
+{
+    float m1 = calculateAverage(5.0, 6.0);
+    float m2 = calculateAverage(4.0, 2.0);
+    float m3 = calculateAverage(6.0, 9.0);
+    
+    printf("Average 1 = %f\n", m1);
+    printf("Average 2 = %f\n", m2);
+    printf("Average 3 = %f\n", m3);
+    
+    return 0;
+}
+```
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
