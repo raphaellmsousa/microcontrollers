@@ -546,7 +546,7 @@ int main()
 **Question**: write a code to calculate the average grade. So, if the student took a grade less than 7, he is disapproved, otherwise, approved.
 
 ```sh
-if(satisfied condition)
+if (satisfied condition)
 {
     Execute rotine;
 }
