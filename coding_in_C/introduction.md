@@ -588,6 +588,34 @@ int main()
 }
 ```
 
+*******
+
+### Repetition Structure WHILE
+
+```sh
+#include <stdio.h>
+
+int main()
+{
+    printf("Message 1\n");
+    printf("Message 2\n");
+    printf("Message 3\n");
+    printf("Message 4\n");
+    printf("Message 5\n");
+    
+    int counter = 0;
+    
+    while(counter < 50) {
+        printf("Loop %i\n", counter);
+        counter = counter + 1;
+    }
+    
+    printf("End of code.");
+    
+    return 0;
+}
+```
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
