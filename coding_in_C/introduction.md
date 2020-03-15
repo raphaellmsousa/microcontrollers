@@ -17,7 +17,7 @@ Table of Contents
  5. [Variables](#variables)
  6. [Data Types](#data)
  7. [Math Operators](#math)
- 8. [Relational Operators, Logic and Bits](#relation)
+ 8. [Relational Operators, Logic and Bitwise](#relation)
 
 Obs.: this content is based on this course **[*here!*](https://www.udemy.com/course/microcontrolador-pic-com-linguagem-c/)** 
 
@@ -463,7 +463,7 @@ int main()
 
 *******
 
-## Relational Operators, Logic and Bits
+## Relational Operators, Logic and Bitwise
 
 <p align="center">
     <img src="./figs/relational.jpg" width="600" height="360" title="Open IDE">
@@ -492,6 +492,10 @@ int main()
     return 0;
 }
 ```
+
+<p align="center">
+    <img src="./figs/bit.png" width="600" height="360" title="Open IDE">
+</p> 
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
