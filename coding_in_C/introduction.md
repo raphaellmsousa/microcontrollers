@@ -20,6 +20,7 @@ Table of Contents
  8. [Relational Operators, Logic and Bitwise](#relation)
  9. [Flow Control](#flow)
  10. [Functions](#func)
+ 11. [Scope of Variables](#scope)
 
 Obs.: this content is based on this course **[*here!*](https://www.udemy.com/course/microcontrolador-pic-com-linguagem-c/)** 
 
@@ -685,6 +686,37 @@ int main()
     printf("Average 1 = %f\n", m1);
     printf("Average 2 = %f\n", m2);
     printf("Average 3 = %f\n", m3);
+    
+    return 0;
+}
+```
+
+<div id='scope'/>
+
+*******
+
+## Scope of Variables
+
+```sh
+#include <stdio.h>
+
+int globalAge = 45;
+
+void functionEx1() {
+    int localAge1 = 16;
+    printf("Ex 1 : global variable1 = %i\n", globalAge);
+    printf("Ex 1 : local variable1 = %i\n", localAge1);
+}
+
+void functionEx2() {
+    printf("Ex 2 : global variable = %i\n", globalAge);
+}
+
+int main() {
+    int localAge2 = 34;
+    printf("main : global variable = %i\n", globalAge);
+    functionEx1();
+    functionEx2();
     
     return 0;
 }
