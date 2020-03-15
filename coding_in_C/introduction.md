@@ -19,7 +19,7 @@ Table of Contents
  7. [Math Operators](#math)
  8. [Relational Operators, Logic and Bitwise](#relation)
  9. [Flow Control](#flow)
- 10.[Functions](#func)
+ 10. [Functions](#func)
 
 Obs.: this content is based on this course **[*here!*](https://www.udemy.com/course/microcontrolador-pic-com-linguagem-c/)** 
 
