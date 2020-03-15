@@ -477,6 +477,8 @@ Figure from: https://www.youtube.com/watch?v=3ZFDQcgLD04
 
 Figure from:http://resede.fourwindspresbytery.org/logical-operators/
 
+Try this code. What is the output?
+
 ```sh
 #include <stdio.h>
 
