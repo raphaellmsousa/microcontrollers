@@ -541,7 +541,24 @@ int main()
 
 ## Flow Control
 
-...
+### Conditional structure IF ELSE
+
+**Question**: write a code to calculate the average grade. So, if the student took a grade less than 7, he is disapproved, otherwise, approved.
+
+```sh
+if(satisfied condition)
+{
+    Execute rotine;
+}
+else
+{
+    Execute this one;
+}
+```
+
+*******
+
+### Conditional structure SWITCH CASE
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
