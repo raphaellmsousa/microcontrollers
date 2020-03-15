@@ -497,6 +497,8 @@ int main()
     <img src="./figs/bit.png" width="600" height="360" title="Open IDE">
 </p> 
 
+Figure from: http://www.advancecomputing.co.in/2019/05/04/946/
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
