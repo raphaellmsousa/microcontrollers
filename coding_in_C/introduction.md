@@ -499,6 +499,23 @@ int main()
 
 Figure from: http://www.advancecomputing.co.in/2019/05/04/946/
 
+Ex.:
+
+```sh
+#include <stdio.h>
+
+int main()
+{
+    int a = 0b0010;
+    int b = 0b0101;
+    int c = a & b;
+    
+    printf("a = %i, b = %i and c = %i", a, b, c);
+
+    return 0;
+}
+```
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
