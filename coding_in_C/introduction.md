@@ -722,6 +722,10 @@ int main() {
 }
 ```
 
+*******
+
+**[*Exercises!!*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/grade_discount.c)**
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
 
