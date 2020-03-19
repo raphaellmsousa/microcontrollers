@@ -21,6 +21,7 @@ Table of Contents
  9. [Flow Control](#flow)
  10. [Functions](#func)
  11. [Scope of Variables](#scope)
+ 12. [Exercises](#exercises)
 
 Obs.: this content is based on this course **[*here!*](https://www.udemy.com/course/microcontrolador-pic-com-linguagem-c/)** 
 
@@ -722,9 +723,13 @@ int main() {
 }
 ```
 
+<div id='exercises'/>
+
 *******
 
-**[*Exercises!!*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/grade_discount.c)**
+## Exercises
+
+**[*Exercises!!*](https://github.com/raphaellmsousa/microcontrollers/tree/master/coding_in_C/exercises)**
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
