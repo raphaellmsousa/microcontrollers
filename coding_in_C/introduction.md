@@ -729,6 +729,8 @@ int main() {
 
 ## Exercises
 
+Credits by Prof. Leandro Honorato
+
 **[*Exercises!!*](https://github.com/raphaellmsousa/microcontrollers/tree/master/coding_in_C/exercises)**
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
