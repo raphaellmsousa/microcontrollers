@@ -29,15 +29,19 @@ Table of Contents
 
 * **[*Blinking LEDs*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/blink_led.md)**
 
-3. Let's work with seven-segments displays:
+3. Button and LEDs:
+
+* **[*Button*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/button_and_led.md)**
+
+4. Let's work with seven-segments displays:
 
 * **[*Seven-segments display*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/display_seven_segment.md)**
 
-4. In this class, we are going to learn how to code a counter by using a seven-segments display.
+5. In this class, we are going to learn how to code a counter by using a seven-segments display.
 
 * **[*Counter*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/counter.md)**
 
-5. Let's use multiplexation to write in both displays at the same time!
+6. Let's use multiplexation to write in both displays at the same time!
 
 * **[*Multiplexation*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/multiplexing.md)**
 
