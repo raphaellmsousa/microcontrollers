@@ -37,15 +37,19 @@ Table of Contents
 
 * **[*LED Effects*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/led_effects.md)**
 
-5. Let's work with seven-segments displays:
+5. Debounce:
+
+Check * **[*this*](https://www.youtube.com/watch?v=yb8Qf0C0Ozc)** lesson to understand the bounce effect.
+
+6. Let's work with seven-segments displays:
 
 * **[*Seven-segments display*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/display_seven_segment.md)**
 
-6. In this class, we are going to learn how to code a counter by using a seven-segments display.
+7. In this class, we are going to learn how to code a counter by using a seven-segments display.
 
 * **[*Counter*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/counter.md)**
 
-7. Let's use multiplexation to write in both displays at the same time!
+8. Let's use multiplexation to write in both displays at the same time!
 
 * **[*Multiplexation*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/multiplexing.md)**
 
