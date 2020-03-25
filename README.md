@@ -39,7 +39,7 @@ Table of Contents
 
 5. Debounce:
 
-* **[*Debounce Effects*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/led_effects.md)**
+* **[*Debounce Effects*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/bounce_effect.md)**
 
 6. Let's work with seven-segments displays:
 
