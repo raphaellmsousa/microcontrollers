@@ -39,7 +39,7 @@ Table of Contents
 
 5. Debounce:
 
-Check * **[*this*](https://www.youtube.com/watch?v=yb8Qf0C0Ozc)** lesson to understand the bounce effect.
+Check **[*this*](https://www.youtube.com/watch?v=yb8Qf0C0Ozc)** lesson to understand the bounce effect.
 
 6. Let's work with seven-segments displays:
 
