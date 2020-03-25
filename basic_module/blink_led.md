@@ -82,6 +82,10 @@ void main(void) {
 
 10. Go to project name (linking_led) press it with the right button and go to properties. Click on XC8 Compiler and in the option include directories, enter with the path writed in the step 6. Press OK.
 
+```sh
+path to include directory: "/opt/microchip/xc8/v2.10/pic/include"
+```
+
 <p align="center">
     <img src="./figs/xc_compiler.png" width="600" height="360" title="New Project">
 </p>
