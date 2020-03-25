@@ -39,7 +39,7 @@ Table of Contents
 
 5. Debounce:
 
-Check **[*this*](https://www.youtube.com/watch?v=yb8Qf0C0Ozc)** lesson to understand the bounce effect.
+* **[*Debounce Effects*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/led_effects.md)**
 
 6. Let's work with seven-segments displays:
 
