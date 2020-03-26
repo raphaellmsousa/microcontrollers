@@ -37,7 +37,6 @@ int count = 0;
 
 int buttonState = 1; //not active
 int lastButtonState = 1; //not active
-int buttonPushCounter = 0;
 
 bool ledStatus = 0;
 
@@ -51,7 +50,6 @@ void main(void) {
         buttonState = button;
         
         if(buttonState != lastButtonState){  
-
             ledStatus = !ledStatus;
         }
         else{
