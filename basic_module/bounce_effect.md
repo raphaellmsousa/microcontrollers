@@ -52,7 +52,7 @@ void main(void) {
         
         if(buttonState == !lastButtonState){
             buttonPushCounter++;
-            __delay_ms(4000);
+            __delay_ms(4000); //avoid bounce
         }       
        
         lastButtonState = buttonState;
