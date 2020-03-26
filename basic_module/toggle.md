@@ -9,28 +9,12 @@
 
 Check **[*this*](https://www.youtube.com/watch?v=yb8Qf0C0Ozc)** lesson to understand the bounce effect.
 
-Algorithm for debounce:
-
 ```sh
-1. Read the key;
-
-2. wait x ms;
-
-3. Read the key again;
-
-4. Compare the values.
-
-```
-
-**Question:** Implement the debouncing algorithm in the follow code:
-
-```sh
-
 /*
  * File:   newmain.c
  * Author: raphaell
  *
- * Created on 1 de Março de 2020, 21:33
+ * Created on 25 de Março de 2020, 21:33
  */
 
 #include <xc.h>
@@ -50,22 +34,53 @@ Algorithm for debounce:
 #define button RA1 
 #define LED RA0
 
+int count = 0;
+
+int buttonState = 1; //not active
+int lastButtonState = 1; //not active
+int buttonPushCounter = 0;
+
 void main(void) {
-    
+
     TRISA0 = 0; //Output
-    TRISA1 = 1; //Input
+    TRISA1 = 1; //Input   
+    TRISB0 = 0;
     
-    if(button == 1){
-        LED = 0;
+    while(1){    
+        
+        buttonState = button;
+        
+        if(buttonState == !lastButtonState){
+            buttonPushCounter++;
+            __delay_ms(4000); //avoid bounce
+        }       
+       
+        lastButtonState = buttonState;
+    
+        if(buttonPushCounter % 4 == 0) {
+            LED = 1;
+        } 
+        else{
+            LED = 0;
+        }
     }
-    else{
-        LED = 1;
-    }    
+    
     return;
 }
-
 ```
 
+Algorithm for debounce:
+
+```sh
+1. Read the key;
+
+2. wait x ms;
+
+3. Read the key again;
+
+4. Compare the values.
+
+```
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 

@@ -9,3 +9,5 @@ https://sourceforge.net/projects/picsim/
 https://www.youtube.com/watch?v=q2oZB50Avm4&feature=youtu.be
 
 https://lcgamboa.github.io/picsimlab/pdf/How%20to%20use%20MPLABX%20to%20program%20and%20debug%20PICsimLab.pdf
+
+https://www.youtube.com/watch?v=SIFizoj02k0
