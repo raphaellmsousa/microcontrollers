@@ -66,7 +66,7 @@ void main(void) {
 
 ```
 
-**[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/grade_discount.c)**
+**[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/solutions/debounce.c)**
 
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
