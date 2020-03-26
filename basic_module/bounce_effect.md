@@ -33,35 +33,40 @@ Check **[*this*](https://www.youtube.com/watch?v=yb8Qf0C0Ozc)** lesson to unders
 
 #define button RA1 
 #define LED RA0
-#define secoundLED RB0
 
 int count = 0;
+
+int buttonState = 1; //not active
+int lastButtonState = 1; //not active
+int buttonPushCounter = 0;
 
 void main(void) {
 
     TRISA0 = 0; //Output
     TRISA1 = 1; //Input   
     TRISB0 = 0;
-   
+    
     while(1){    
         
-        if(button == 1){
+        buttonState = button;
+        
+        if(buttonState == !lastButtonState){
+            buttonPushCounter++;
+            __delay_ms(4000);
+        }       
+       
+        lastButtonState = buttonState;
+    
+        if(buttonPushCounter % 4 == 0) {
+            LED = 1;
+        } 
+        else{
             LED = 0;
         }
-        else{            
-            LED = 1;
-            count++;
-            __delay_ms(400);
-        }  
-        
-        if(count >= 10)
-            secoundLED = 1;
-        else
-            secoundLED = 0;
     }
+    
     return;
 }
-
 ```
 
 Algorithm for debounce:
