@@ -1,6 +1,6 @@
 ### First project
 
-#### Debounce
+#### Toggle
 
 #### Professor: Raphaell Maciel de Sousa
 
