@@ -1,36 +1,8 @@
-### First project
-
-#### Debounce
-
-#### Professor: Raphaell Maciel de Sousa
-
-
-**[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
-
-Check **[*this*](https://www.youtube.com/watch?v=yb8Qf0C0Ozc)** lesson to understand the bounce effect.
-
-Algorithm for debounce:
-
-```sh
-1. Read the key;
-
-2. wait x ms;
-
-3. Read the key again;
-
-4. Compare the values.
-
-```
-
-**Question:** Implement the debouncing algorithm in the follow code:
-
-```sh
-
 /*
  * File:   newmain.c
  * Author: raphaell
  *
- * Created on 1 de Março de 2020, 21:33
+ * Created on 26 de Março de 2020, 11:42
  */
 
 #include <xc.h>
@@ -50,23 +22,24 @@ Algorithm for debounce:
 #define button RA1 
 #define LED RA0
 
+#include <stdbool.h> 
+
 void main(void) {
     
     TRISA0 = 0; //Output
     TRISA1 = 1; //Input
     
-    if(button == 1){
+    bool buttonStatus = button;
+    
+    if(buttonStatus == 1){
         LED = 0;
     }
     else{
-        LED = 1;
+        __delay_ms(30);
+        if(buttonStatus == 0){
+            LED = 1;
+        }
     }    
     return;
 }
-
-```
-
-**[*Solution*](https://github.com/raphaellmsousa/microcontrollers/blob/master/coding_in_C/solutions/grade_discount.c)**
-
-**[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
 
