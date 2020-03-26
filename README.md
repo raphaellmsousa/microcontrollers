@@ -43,7 +43,7 @@ Table of Contents
 
 6. Toggle LED:
 
-* **[*Toggle*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/bounce_effect.md)**
+* **[*Toggle*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/toggle.md)**
 
 7. Let's work with seven-segments displays:
 
