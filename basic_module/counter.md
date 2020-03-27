@@ -161,8 +161,6 @@ void main(void) {
     
     TRISB = 0;
        
-    int number = 0;   
-    
     while (1) { 
    	/*To do
 	write your code here!*/
