@@ -7,7 +7,7 @@
 Table of Contents 
 
  1. [First Module (Coding in C)](#first)
- 2. [Basic Module (Start coding a microcontroller)](#basic)
+ 2. [PIC Basic Module (Start coding a microcontroller)](#basic)
  3. [Advanced](#adv)
  4. [Arduino](#Arduino)
 
