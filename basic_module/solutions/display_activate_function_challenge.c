@@ -2,7 +2,7 @@
  * File:   newmain.c
  * Author: raphaell
  *
- * Created on 27 de Março de 2020, 09:05
+ * Created on 27 de Março de 2020, 17:17
  */
 
 
@@ -43,14 +43,19 @@ void activeDisplay(bool display, int number){
     //1. First, you must ensure that the port B pins are deactivated
     TRISB = 0;
     
-    //2. Activate the display
+    //2. Choose the display
     pin = display;
-    
+        
     //3. Write the number in the selected display
-    PORTB = segments[number];
+    if(display == 1){
+        PORTB = segments[number]&0b11111111;
+    }
+    if(display == 0){
+        PORTB = segments[number]&0b11101111;
+    }   
     
     //4. Use some delay
-    __delay_ms(1000);
+    __delay_ms(500);
 }
 
 void main(void) {
@@ -63,6 +68,11 @@ void main(void) {
         activeDisplay(1, 1);
         activeDisplay(1, 2);
         activeDisplay(1, 3);
+        
+        activeDisplay(0, 0);
+        activeDisplay(0, 1);
+        activeDisplay(0, 2);
+        activeDisplay(0, 3);
     }    
     return;
 }
