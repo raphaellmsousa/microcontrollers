@@ -8,6 +8,8 @@ Table of Contents
 
  1. [First Module (Coding in C)](#first)
  2. [Basic Module (Start coding a microcontroller)](#basic)
+ 3. [Advanced](#adv)
+ 4. [Arduino](#Arduino)
 
 *******
 
@@ -56,6 +58,18 @@ Table of Contents
 9. Let's use multiplexation to write in both displays at the same time!
 
 * **[*Multiplexation*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/multiplexing.md)**
+
+<div id='adv'/>
+
+## Advanced Module
+
+...
+
+<div id='arduino'/>
+
+## Arduino
+
+...
 
 ## References
 
