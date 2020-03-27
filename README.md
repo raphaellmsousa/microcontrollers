@@ -61,7 +61,7 @@ Table of Contents
 
 <div id='adv'/>
 
-## Advanced Module
+## PIC Advanced Module
 
 ...
 
