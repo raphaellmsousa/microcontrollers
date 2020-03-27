@@ -21,7 +21,7 @@ Table of Contents
 
 <div id='basic'/>
 
-## Basic Module (Start coding a microcontroller)
+## PIC Basic Module (Start coding a microcontroller)
 
 1. First, follow these steps for a software setup:
 
