@@ -125,4 +125,6 @@ void main(void) {
 }
 ```
 
+**Challenge**: use a vector with the numbers from 0 to 9 and implement the seven segments display counter scanning this vector.
+
 **[*Back to home page*](https://github.com/raphaellmsousa/microcontrollers)**  
