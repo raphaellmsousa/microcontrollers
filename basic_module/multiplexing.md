@@ -421,7 +421,8 @@ void main(void) {
     
     while (1) { 
        /*To do
-        Write a code to increment and decrement a number and present it on 7 segments display */
+        Write a code to increment and decrement a number and 
+        present it on 7 segments display */
         
     }    
     return;
