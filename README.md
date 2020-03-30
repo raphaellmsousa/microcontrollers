@@ -63,7 +63,7 @@ Table of Contents
 
 ## PIC Advanced Module
 
-...
+1. LCD Display
 
 <div id='arduino'/>
 
