@@ -65,6 +65,8 @@ Table of Contents
 
 1. Display LCD 16x2:
 
+**[*Display LCD*](https://github.com/raphaellmsousa/microcontrollers/blob/master/advanced_module/display_LCD.md)**  
+
 <div id='arduino'/>
 
 ## Arduino
