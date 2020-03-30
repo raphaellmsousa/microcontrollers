@@ -55,7 +55,7 @@ Table of Contents
 
 * **[*Counter*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/counter.md)**
 
-9. Let's use multiplexation to write in both displays at the same time!
+9. Let's use multiplexation to write on both displays at the same time!
 
 * **[*Multiplexation*](https://github.com/raphaellmsousa/microcontrollers/blob/master/basic_module/multiplexing.md)**
 
