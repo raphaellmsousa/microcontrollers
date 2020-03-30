@@ -322,7 +322,7 @@ void main(void) {
        /*To do
         Use the function "showNumber" to write some numbers on the 
         seven-segments display*/
-        showNumber(23);
+
     }    
     return;
 }
