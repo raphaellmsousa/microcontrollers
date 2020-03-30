@@ -67,6 +67,30 @@ Table of Contents
 
 **[*Display LCD*](https://github.com/raphaellmsousa/microcontrollers/blob/master/advanced_module/display_LCD.md)**  
 
+2. Matrix Keypad Interface:
+
+...
+
+3. Analogic Digital Conversion:
+
+...
+
+4. Timers
+
+...
+
+5. Pulse Width Modulation (PWM):
+
+...
+
+6. Serial Communication:
+
+...
+
+7. External Interrupt:
+
+...
+
 <div id='arduino'/>
 
 ## Arduino
