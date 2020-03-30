@@ -48,10 +48,12 @@ void activeDisplay(bool display, int number){
         
     //3. Write the number in the selected display
     if(display == 1){
-        PORTB = segments[number]&0b11111111;
+        int outDisplay = segments[number]|0b00010000;
+        PORTB = outDisplay&0b11111111;
     }
     if(display == 0){
-        PORTB = segments[number]&0b11101111;
+        int outDisplay = segments[number]|0b00010000;
+        PORTB = outDisplay&0b11101111;
     }   
     
     //4. Use some delay
