@@ -405,16 +405,11 @@ void showNumber(int value){
     value => int positive variable from 0 to 99*/
     
     //1. Declare 2 integer variables, 1 for units and another one for tens
-    int unity;
-    int ten;
 
     //2. Now, separate value in unity and ten
-    ten = value % 1000 % 100 / 10;
-    unity = value % 1000 % 100 % 10;  
     
     //3. Use the activeDisplay function to present units and tens
-    activeDisplay (0, ten);
-    activeDisplay (1, unity);
+
 }
 
 void main(void) {
